@@ -1,0 +1,6 @@
+{
+  "name": "CivicTriage LSG",
+  "description": "Live-synced Kerala & Pan-India Smart Civic, Police, 3D Travel, Healthcare & Local Life OS mobile shell with native UPI, dialer, camera, voice, and receipt bridges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
